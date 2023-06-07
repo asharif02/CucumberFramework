@@ -48,6 +48,8 @@ public class LandingPageStepDefinition {
         testContextSetup.homepageProduct = landingPage.getProductName().split("-")[0].trim();
 
         System.out.println(testContextSetup.homepageProduct + " is extracted from the home page");
+
+        System.out.println("testing");
     }
 
     @When("User adds three to the quantity")
