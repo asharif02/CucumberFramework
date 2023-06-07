@@ -50,6 +50,13 @@ public class LandingPageStepDefinition {
         System.out.println(testContextSetup.homepageProduct + " is extracted from the home page");
 
         System.out.println("testing");
+        System.out.println("testing");
+        System.out.println("testing");
+        System.out.println("testing");
+
+
+
+
     }
 
     @When("User adds three to the quantity")
